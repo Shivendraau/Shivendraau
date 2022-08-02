@@ -3,8 +3,6 @@
 <!--
 Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on multiple machine learning projects 
 - 🌱 I’m currently learning  Machine Learning , Deep Learning, computer vision, NLP etc...
 - 👯 I’m looking to collaborate on different machine learning projects
