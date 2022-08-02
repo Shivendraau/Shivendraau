@@ -8,4 +8,3 @@
 - 🤔 My projects are available at https://github.com/Shivendraau
 - 💬 Ask me about SQL, Python, Data Analytics, Data Visualization, Machine Learning
 - 📫 How to reach me: shivendraau@gmail.com
-- 
