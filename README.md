@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivendra Pratap Shahi</h1>
 <h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning, computer vision, NLP.**
+- 🌱 I’m currently learning **Machine Learning , Deep Learning, computer vision, NLP**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivendraau](https://github.com/Shivendraau)
+- 👨‍💻 All of my projects are available at **https://github.com/Shivendraau**
 
 - 💬 Ask me about **SQL, Python, Data Analytics, Data Visualization, Machine Learning**
 
