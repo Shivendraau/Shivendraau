@@ -1,5 +1,4 @@
-### Hi 👋, I'm Shivendra Pratap Shahi
-
+Hi 👋, I'm Shivendra Pratap Shahi
 Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
 - 🔭 I’m currently working on multiple machine learning projects 
